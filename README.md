@@ -1,6 +1,7 @@
 # VAE_project
-Variational Autoencoder Project for Statistics and Data Analysis Class
 
 *by Younginn Park*
 
-Implemented using Tensorflow. Originally written in Kaggle notebook for the [Fundus Glaucoma Detection Dataset](https://www.kaggle.com/datasets/sabari50312/fundus-pytorch).
+This project presents a Variational Autoencoder (VAE) implemented in TensorFlow as part of a Statistics and Data Analysis course. Originally developed in a Kaggle notebook, the model is applied to the Fundus Glaucoma Detection dataset to explore unsupervised learning techniques for medical imaging. The project demonstrates the use of VAEs for dimensionality reduction, feature extraction, and potential glaucoma-related anomaly detection in retinal images.
+
+Originally written in Kaggle notebook for the [Fundus Glaucoma Detection Dataset](https://www.kaggle.com/datasets/sabari50312/fundus-pytorch).
